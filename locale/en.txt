@@ -1,0 +1,24 @@
+#: locale=en
+
+## Media
+
+### Image
+imlevel_40C279CA_4D22_2FE5_41B7_7F0A20C327EE.url = media/popup_3EA32889_2E74_2364_415A_A696EBCCCCAF_en_0_0.webp
+imlevel_40C269CA_4D22_2FE5_41D0_AF832160477E.url = media/popup_3EA32889_2E74_2364_415A_A696EBCCCCAF_en_0_1.webp
+imlevel_40C259CA_4D22_2FE5_41C2_481D474AAEDF.url = media/popup_3EA32889_2E74_2364_415A_A696EBCCCCAF_en_0_2.webp
+
+### Popup Image
+
+### Title
+panorama_4506C601_4CF3_2DE7_41AB_392FF79BB435.label = 1
+panorama_45024AFA_4CF4_FA24_41BD_83A238EFFCB5.label = 1
+panorama_402D14CB_4CF3_2E64_41C4_937C5224B884.label = 1
+panorama_46E1567F_4CF3_6A1C_4191_0822C8A6E594.label = 2
+panorama_5D515F76_4D2D_E4AD_41D1_150F4CE4020B.label = 3
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
